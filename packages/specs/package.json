@@ -30,6 +30,7 @@
 		"validate": "swagger-cli validate src/openapi.yaml"
 	},
 	"dependencies": {
+		"@directus/specs": "file:",
 		"openapi3-ts": "4.4.0"
 	},
 	"devDependencies": {

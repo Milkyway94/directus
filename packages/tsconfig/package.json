@@ -16,5 +16,8 @@
 		"./node18-cjs": "./node18-cjs/tsconfig.json",
 		"./node18-esm": "./node18-esm/tsconfig.json",
 		"./vue3": "./vue3/tsconfig.json"
+	},
+	"dependencies": {
+		"@directus/tsconfig": "file:"
 	}
 }
